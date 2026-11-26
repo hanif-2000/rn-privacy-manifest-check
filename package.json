@@ -1,0 +1,21 @@
+{
+  "name": "rn-privacy-manifest-check",
+  "version": "0.1.0",
+  "description": "Find which React Native packages use Apple's required reason APIs and check your app's PrivacyInfo.xcprivacy declares them — before App Store Connect emails you about it.",
+  "type": "module",
+  "bin": {
+    "rn-privacy-manifest-check": "bin/rn-privacy-manifest-check.js"
+  },
+  "exports": "./src/index.js",
+  "files": ["bin", "src", "README.md", "LICENSE"],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["react-native", "ios", "privacy-manifest", "xcprivacy", "privacyinfo", "required-reason-api", "app-store", "app-store-connect", "itms-91053", "expo", "cocoapods"],
+  "author": "Hanif Mohammad (https://hanif-2000.github.io)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/hanif-2000/rn-privacy-manifest-check.git" },
+  "bugs": { "url": "https://github.com/hanif-2000/rn-privacy-manifest-check/issues" },
+  "homepage": "https://github.com/hanif-2000/rn-privacy-manifest-check#readme"
+}
