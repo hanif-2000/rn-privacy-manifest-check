@@ -6,6 +6,8 @@
 >
 > **[→ Hire me on Upwork](https://www.upwork.com/freelancers/~01b46f78c173c3ba9b)**  ·  **[→ Portfolio](https://hanif-2000.github.io)**
 >
+> **🛠 Fix it for me:** got the App Store privacy manifest email? I'll fix your `PrivacyInfo.xcprivacy` at a fixed price (from $99), usually within 48 hours. **[Message me on Upwork](https://www.upwork.com/freelancers/~01b46f78c173c3ba9b)**.
+>
 > Found this tool useful? Please **⭐ the repo** or **[sponsor on GitHub ❤](https://github.com/sponsors/hanif-2000)** — it keeps these tools maintained.
 
 ---
