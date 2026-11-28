@@ -117,6 +117,16 @@ console.log(result.ok, result.summary);
 - It's a static source scan: it can't see inside precompiled binaries (`.xcframework`), and a symbol may appear in code your app never calls. Use `--verbose` to review each match.
 - **Pick reason codes yourself.** The suggested code is the most common one for the category; Apple requires the reason to match how your app actually uses the API.
 
+## Sponsors
+
+This tool is free and MIT-licensed. Sponsorship pays for keeping it up to date with new store rules and new React Native / Expo versions.
+
+**[Become the first sponsor →](https://github.com/sponsors/hanif-2000)**
+
+<!-- sponsors -->
+<!-- Sponsor names and logos are listed here. -->
+<!-- /sponsors -->
+
 ## License
 
 MIT © [Hanif Mohammad](https://hanif-2000.github.io)
