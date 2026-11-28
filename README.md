@@ -1,4 +1,14 @@
 # rn-privacy-manifest-check
+---
+
+> ### 💼 Built by Hanif Mohammad — React Native & full-stack developer
+> **Top Rated Plus on Upwork · 100% Job Success.** Need a React Native / Expo app built, fixed, or shipped reliably?
+>
+> **[→ Hire me on Upwork](https://www.upwork.com/freelancers/~01b46f78c173c3ba9b)**  ·  **[→ Portfolio](https://hanif-2000.github.io)**
+>
+> Found this tool useful? Please **⭐ the repo** or **[sponsor on GitHub ❤](https://github.com/sponsors/hanif-2000)** — it keeps these tools maintained.
+
+---
 
 Find which React Native packages use Apple's **required reason APIs** — and check that your app's `PrivacyInfo.xcprivacy` declares them, **before** App Store Connect emails you about it.
 
